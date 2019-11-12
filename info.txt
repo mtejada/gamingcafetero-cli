@@ -1,0 +1,39 @@
+Erorres:
+- hacer palabras mas faciles
+- agregar el Select
+-ver como hacer que otras palabras no molesten en el juego
+
+Improves
+- hacer una base de datos general con los nicks, e ir rankeando los top de interacciones, teniendo en cuenta los juegos, y mostrando la fecha de ultima interaccion
+- ver de levantar esa info desde www.gamingcafetero.com
+- base local? debería, para que no joda el tema de la app
+- se puede pisar la base a una de la nube, cada una hora? borrarla y generarla de nuevo? para no saturar el upload de mi casa
+- hacer un proceso en python como la gente, teniendo todo esto en cuenta, y más y parametrizaciones y etc.
+
+quieren poder elegir la musica que se pasa en el stream? para ello tendría que mutear el juego
+
+options: 
+OPTION 1(2 letters of button and a capital b)
+case sensitive, underscore is a rotative char to allow twitch to post the same command
+SQB_ (square button) examples: SQB, SQB1
+TRB_ (triangle button) examples: TRB, TRB1
+XSB_ (X button) examples: XSB, XSB1
+CIB_ (circle button) examples: CIB, CIB1
+
+OPTION 2 (make buttons single letters with a suffix not common to see)
+also case sensitive, underscore is a rotative char to allow twitch to post the same command
+SZ_ (square button) examples: SZ, SZ1
+TZ_ (triangle button) examples: TZ, TZ1
+XZ_ (X button) examples: XZ, XZ1
+CZ_ (circle button) examples: CZ, CZ1
+
+
+OPTION 3 (take just the letter, in singular, like in the emulator itself)
+also case sensitive, underscore is a rotative char to allow twitch to post the same command
+H_ (square button) examples: SZ, SZ1
+U_ (triangle button) examples: TZ, TZ1
+J_ (X button) examples: XZ, XZ1
+K_ (circle button) examples: CZ, CZ1
+
+if you vote option 3, name you desired buttons --> letters. i choose UHJK since they are like a pad in the keyboard to relate the psx controller, but you can tell me other options
+
